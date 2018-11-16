@@ -12,7 +12,7 @@ This code is my solution of practice in [入門python3](https://www.oreilly.co.j
   <li>Chapter4: The structure of code</li>
   <li>Chapter5: Module, Package, Program</li>
   <li>Chapter6: Object, Class</li>
-  <li>Chapter7: Handling data</li>
+  <li>Chapter7: Text data and binary data</li>
   <li>Chapter8: Destination of data</li>
   <li>Chapter9: Structure of Web</li>
   ...
